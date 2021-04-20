@@ -1,2 +1,2 @@
-# JAHAZIEProjects
-Junior's portfolio
+# Junior's Project Portfolio
+
