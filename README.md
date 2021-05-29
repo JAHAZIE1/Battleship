@@ -8,8 +8,9 @@
 
 ## Local Installation
 
-battleships.py set up to run on the console.
-extension.py imports code from battleship.py and creates a new window to play game using Tkinter. 
+Battleships.py set up to run on the console.
+
+Extension.py imports code from battleship.py and creates a new window to play game using Tkinter. 
 
 ## Reflection
 
