@@ -8,9 +8,9 @@
 
 ## Objectives:
 
-- Provide more experience with collections (tuples, sets, ...)
-- Provide experience of writing tests and TDD-style development
-- Provide experience of working with output and graphics
+- Provided more experience with collections (tuples, sets, ...)
+- Provided experience of writing tests and TDD-style development
+- Provided experience of working with output and graphics
 
 ## Local Installation
 
