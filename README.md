@@ -6,11 +6,17 @@
   - Tkinter
   - Git
 
-## Objectives:
+## Project Outline
+Create a one player Battleship game, where the user has to sink all the ships in the fewest number of shots.
 
-- Provided more experience with collections (tuples, sets, ...)
-- Provided experience of writing tests and TDD-style development
-- Provided experience of working with output and graphics
+## Game information
+- Ocean is a field of 10 x 10 squares
+- The fleet consist of 10 ships made of 4 different types of ship
+   - One battleship, occupying 4 squares
+   - Two cruisers, each occupying 3 squares
+   - Three destroyers, each occupying 2 squares
+   - Four submarines, each occupying 1 square
+ - No ships will be immediately adjacent to each other, either horizontally, vertically, or diagonally
 
 ## Local Installation
 
@@ -21,7 +27,6 @@ Extension.py imports code from battleship.py and creates a new window to play ga
 ## Reflection
 
 First large coding project. Would need to update coding syntax avoiding using:
-
 
 ```python
 
