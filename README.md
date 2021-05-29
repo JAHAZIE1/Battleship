@@ -6,6 +6,12 @@
   - Tkinter
   - Git
 
+## Objectives:
+
+- Provide more experience with collections (tuples, sets, ...)
+- Provide experience of writing tests and TDD-style development
+- Provide experience of working with output and graphics
+
 ## Local Installation
 
 Battleships.py set up to run on the console.
