@@ -1,3 +1,6 @@
-# Battleship
+# Battleship Project
 
-Technology Used - Python and Tkinter
+## Technology:
+  
+  Python, Tkinter and Git
+
